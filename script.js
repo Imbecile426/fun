@@ -12,6 +12,6 @@ $(document).ready(function(){
         $('#Button1').css("background-color","red");
     });
     $("button").click(function(){
-        alert("I KNEW IT! &#129392;");
+        alert("I KNEW IT!");
     })
 })
